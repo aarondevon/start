@@ -169,7 +169,7 @@ main {
  */
 
 .top-news {
-  float: right;
+    /*removed float right*/
   width: 320px;
   height: 300px;
   border-bottom: 1px solid #E0E0E0;
