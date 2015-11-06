@@ -106,6 +106,7 @@ ul {
 .nav a {
   text-decoration: none;
   color: #616161;
+    padding: 1.5em;
 }
 
 .nav a:hover {
@@ -269,7 +270,8 @@ main {
 .weather {
     /*Changed from float right to float left*/
   float: left;
-  width: 320px;
+    /*changed width from 320px to 100%*/
+  width: 100%;
   padding: 1em;
 }
 
